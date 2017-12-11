@@ -3,7 +3,7 @@
 
 <body>
     <?php
-	echo phpinfo();
+	echo phpinfo(); /* display any information */
     ?>
 </body>
 </html>
