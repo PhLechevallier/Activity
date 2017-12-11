@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Allow: /sitemap.php
+Sitemap: http://www.mahteldphilippe.com/sitemap.xml
+DisAllow: /bib-*.htm
+DisAllow: /bib.htm
+DisAllow: /index.htm
+DisAllow: /index.php
+DisAllow: /css
+DisAllow: /jquery
+DisAllow: /script
+DisAllow: /album.php
